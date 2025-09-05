@@ -75,14 +75,8 @@ All data comes directly from Public Transport Victoria's official API, providing
 
 ## Upcoming Improvements & Features
 
-### Planned Enhancements
-*Coming soon...*
-
-### Technical Improvements
-*Coming soon...*
-
-### Developer Experience
-*Coming soon...*
+- Streamline the filtering with route type
+- Resolve stop duplication issue in the API
 
 ---
 
