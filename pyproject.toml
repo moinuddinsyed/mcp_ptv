@@ -1,0 +1,14 @@
+[project]
+name = "mcp-ptv"
+version = "0.1.0"
+description = "Model Context Protocol server for PTV (Public Transport Victoria) Timetable API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=1.0.0",
+    "httpx>=0.25.0",
+    "pydantic>=2.0.0",
+]
+
+[project.scripts]
+mcp-ptv = "server:mcp"
